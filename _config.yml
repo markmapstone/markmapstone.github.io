@@ -1,7 +1,7 @@
 title:            Mark Mapstone
 description:      Adventures in Jekyll
 logo:             ../images/site-logo.png
-disqus_shortname: 
+disqus_shortname: markmapstone
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://markmapstone.github.io
